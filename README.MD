@@ -6,7 +6,7 @@
 I’m currently working on Java, Spring Boot and react js. Good at Java, Python, Javascript, MySql etc. And currently learning MicroProfile.
 
 
-👨‍🎓 B.Sc. in Computer Science and Engineering from the **[UNI](https://seu.edu.bd/)** 
+👨‍🎓 B.Sc. in Computer Science and Engineering from the **[National Institute of Textile Engineering and Research (NITER) ](https://niter.edu.bd/)** 
 
 
 - :dart: Full stack web developer
